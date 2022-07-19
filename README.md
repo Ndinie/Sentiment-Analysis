@@ -14,12 +14,17 @@ This project is to create a LSTM model to classifiy if a review is positive or n
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ## How to Install and Run the Project
-1. Go to Google Colab to access the file.
-2. You need to have the NLP_train.py and NLP_deploy to train and test the dataset.
-3. Go to Runtime and click on Refresh and run all.
+1. Go to Google Colab.
+2. You need to have the NLP_train.py and NLP_deploy.py to train and test the dataset.
+3. You must train the dataset by running the NLP_train.py.
+4. After that, before you can test the dataset by running the NLP_deploy.py, you need to upload all the models created from NLP_train.py to the left side under files.
+5. Then, you can proceed on testing the dataset by running the NLP_deploy.py.
 
 ## Credits
-This dataset is provided by [Ankit Kurmi], https://github.com/Ankit152/IMDB-sentiment-analysis
+This dataset is provided by [Ankit Kurmi](https://github.com/Ankit152/IMDB-sentiment-analysis//)
 
 if this model works fine for you, please support us by:
-![BuyWarrenACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-warren-a-coffee&logoColor=black)
+
+![BuyWarrenACoffee](https://img.shields.io/badge/Buy%20Warren%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-warren-a-coffee&logoColor=black)
+
+
